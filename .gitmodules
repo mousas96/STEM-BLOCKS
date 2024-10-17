@@ -7,3 +7,8 @@
 [submodule "micropython"]
 	path = micropython
 	url = git@github.com:micropython/micropython.git
+[submodule "Databoard"]
+	path = databoard
+	url = git@github.com:BIPES/databoard.git
+
+	
