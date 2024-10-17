@@ -3,10 +3,10 @@
 	url = git@github.com:BIPES/freeboard.git
 [submodule "micropython"]
 	path = micropython
-	url = git@github.com:micropython/micropython.git
+	url = https://github.com/micropython/micropython.git
 [submodule "ui/bipes-micropython-unicorn"]
 	path = ui/bipes-micropython-unicorn
-	url = git@github.com:BIPES/bipes-micropython-unicorn.git
+	url = https://github.com/BIPES/BIPES.git
 [submodule "Databoard"]
 	path = databoard
 	url = https://github.com/BIPES/Databoard.git
