@@ -1,6 +1,6 @@
 [submodule "ui/freeboard"]
 	path = ui/freeboard
-	url = git@github.com:BIPES/freeboard.git
+	url = https://github.com/Freeboard/freeboard.git
 [submodule "micropython"]
 	path = micropython
 	url = https://github.com/micropython/micropython.git
